@@ -1,0 +1,8 @@
+setup.py
+calculator56/__init__.py
+calculator56/calc.py
+calculator56.egg-info/PKG-INFO
+calculator56.egg-info/SOURCES.txt
+calculator56.egg-info/dependency_links.txt
+calculator56.egg-info/requires.txt
+calculator56.egg-info/top_level.txt
